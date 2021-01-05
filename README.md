@@ -24,9 +24,12 @@ The dataset:
 
 1. I populated a dropdown menu with all of the Sample ID's. When an option is selected, this will update all of the charts.
 
-Js code here: * [java](static/js/app.js)
+Js code [here](static/js/app.js).
 
 2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
+
+![horizontal bar](Charts/hbar.png)
+
 
 
 

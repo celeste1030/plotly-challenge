@@ -27,6 +27,8 @@ The dataset:
 
 ![dropdown](Charts/drop.png)
 
+<img src="Charts/drop.png" width=300 git aalign=right>
+
 2. I created a horizontal bar chart to display the top 10 OTUs found in selected individual.
 
 ![horizontal bar](Charts/hbar.png)

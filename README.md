@@ -1,4 +1,5 @@
 # plotly-challenge
+## Belly Button Biodiversity Dashboard
 
 Created by [Celeste Muniz - Lithgow](https://github.com/celeste1030)
 

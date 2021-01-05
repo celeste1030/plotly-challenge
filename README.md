@@ -5,7 +5,7 @@ Created by [Celeste Muniz - Lithgow](https://github.com/celeste1030)
 ## Table of Contents
 * [Objective](#objective)
 * [Steps](#steps)
-* [Github Deployment] (#github-deployment)
+* [Github Deployment](#github-deployment)
 * [Technologies](#technologies)
 
 ![belly button truth](Images/bellybutton.gif)
@@ -41,7 +41,6 @@ The dataset:
 
 ## Github Deployment 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 ## Technologies
 

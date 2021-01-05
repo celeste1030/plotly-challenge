@@ -26,9 +26,18 @@ The dataset:
 
 Js code [here](static/js/app.js).
 
-2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
+2. I created a horizontal bar chart to display the top 10 OTUs found in selected individual.
 
 ![horizontal bar](Charts/hbar.png)
+
+3. I created a bubble chart that displays each sample.
+
+![bubble](Charts/bubble.png)
+
+4. BONUS Challenge: I created a gauge chart to plot the weekly belly button washing frequency of the selected individual.
+
+![gauge](Charts/gauge.png)
+
 
 
 

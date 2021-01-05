@@ -156,17 +156,11 @@ function init() {
 
 }
 
-
-
 function optionChanged(newSample) {
-
-    buildMetadata(newSample);
-    buildCharts(newSample);
-
     // Update metadata with newly selected sample
-
+    buildMetadata(newSample);
     // Update charts with newly selected sample
-
+    buildCharts(newSample);   
 }
 
 // Initialize dashboard on page load

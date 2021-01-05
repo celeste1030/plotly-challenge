@@ -25,9 +25,7 @@ The dataset:
 
 1. I populated a dropdown menu with all of the Sample ID's. When an option is selected, this will update all of the charts.
 
-![dropdown](Charts/drop.png)
-
-<img src="Charts/drop.png" width=300 git aalign=right>
+<img src="Charts/drop.png" width=300 git align=right>
 
 2. I created a horizontal bar chart to display the top 10 OTUs found in selected individual.
 

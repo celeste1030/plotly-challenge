@@ -40,7 +40,11 @@ The dataset:
 
 ![gauge](Charts/gauge.png)
 
-## Github Deployment 
+## Github Deployment
+
+I deployed my page to GitHub pages:
+
+<https://celeste1030.github.io/plotly-challenge/>
 
 
 ## Technologies
